@@ -1,0 +1,24 @@
+{
+  "name": "eventflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arizfaiyaz/eventflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/arizfaiyaz/eventflow/issues"
+  },
+  "homepage": "https://github.com/arizfaiyaz/eventflow#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
